@@ -1,0 +1,19 @@
+CloudDesk Company Policy
+
+REFUND POLICY
+CloudDesk offers a full refund within 30 days of purchase for any reason. After 30 days, refunds are only available if the service was unavailable for more than 48 consecutive hours. Refunds are processed within 5 business days to the original payment method. To request a refund, contact billing@clouddesk.com with your account number and purchase date.
+
+LOGIN AND PASSWORD
+If you cannot log in, first check that Caps Lock is not enabled. If you have forgotten your password, click "Forgot Password" on the login page and follow the email instructions. Password reset emails can take up to 10 minutes to arrive. If you still cannot log in after resetting your password, contact support@clouddesk.com.
+
+DATA STORAGE
+All customer files are encrypted at rest using AES-256 encryption. Backups are performed every 6 hours. In the event of data loss, customers can restore files from the previous 30 days using the Restore feature in account settings.
+
+SUBSCRIPTION PLANS
+CloudDesk offers three plans: Basic ($5 per month, 100 GB), Pro ($15 per month, 1 TB), and Enterprise ($50 per month, unlimited storage). You can upgrade or downgrade at any time. Downgrades take effect at the start of the next billing cycle.
+
+CANCELLATION
+You can cancel your subscription at any time from the account settings page. Cancellation stops future charges but does not refund the current billing period. Your data remains accessible for 30 days after cancellation, after which it is permanently deleted.
+
+SUPPORT HOURS
+Customer support is available Monday through Friday, 9 AM to 6 PM Eastern Time. Emergency support for Enterprise customers is available 24/7. Standard support tickets are answered within 4 business hours. Enterprise tickets are answered within 1 hour.
